@@ -28,6 +28,12 @@
     "@babel/runtime": "7.0.0-beta.47",
     "babel-helper-vue-jsx-merge-props": "^2.0.3",
     "babel-plugin-dynamic-import-node": "^1.2.0",
-    "babel-plugin-transform-vue-jsx": "^4.0.1"
-  }
+    "babel-plugin-transform-vue-jsx": "^4.0.1",
+    "snyk": "^1.316.1"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }

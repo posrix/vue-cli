@@ -27,6 +27,12 @@
     "eslint": "^4.19.1",
     "eslint-loader": "^2.0.0",
     "eslint-plugin-vue": "^4.5.0",
-    "launch-editor": "^2.2.1"
-  }
+    "launch-editor": "^2.2.1",
+    "snyk": "^*"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }

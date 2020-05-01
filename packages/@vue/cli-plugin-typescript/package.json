@@ -28,7 +28,8 @@
     "globby": "^8.0.1",
     "ts-loader": "^4.3.1",
     "tslint": "^5.10.0",
-    "typescript": "~2.9.0"
+    "typescript": "~2.9.0",
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "@types/chai": "^4.1.0",
@@ -36,5 +37,10 @@
     "@types/mocha": "^2.2.46",
     "vue-class-component": "^6.0.0",
     "vue-property-decorator": "^6.0.0"
-  }
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }

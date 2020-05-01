@@ -28,10 +28,16 @@
     "jest": "^23.1.0",
     "jest-serializer-vue": "^1.0.0",
     "jest-transform-stub": "^1.0.0",
-    "vue-jest": "^2.6.0"
+    "vue-jest": "^2.6.0",
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "@vue/test-utils": "^1.0.0-beta.16",
     "ts-jest": "^22.4.6"
-  }
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }

@@ -69,7 +69,8 @@
     "webpack-chain": "^4.8.0",
     "webpack-dev-server": "^3.1.4",
     "webpack-merge": "^4.1.2",
-    "yorkie": "^1.0.3"
+    "yorkie": "^1.0.3",
+    "snyk": "^1.316.1"
   },
   "devDependencies": {
     "vue": "^2.5.16",
@@ -81,5 +82,10 @@
   },
   "engines": {
     "node": ">=8"
-  }
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepublish": "npm run snyk-protect"
+  },
+  "snyk": true
 }

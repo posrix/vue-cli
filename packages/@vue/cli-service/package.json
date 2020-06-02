@@ -33,7 +33,7 @@
     "chalk": "^2.4.1",
     "clipboardy": "^1.2.3",
     "cliui": "^4.1.0",
-    "copy-webpack-plugin": "^4.5.1",
+    "copy-webpack-plugin": "^6.0.0",
     "css-loader": "^0.28.11",
     "debug": "^3.1.0",
     "escape-string-regexp": "^1.0.5",

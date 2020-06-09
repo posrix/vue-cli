@@ -40,7 +40,7 @@
     "semver": "^5.5.0",
     "shortid": "^2.2.8",
     "terminate": "^2.1.0",
-    "vue-cli-plugin-apollo": "^0.13.4",
+    "vue-cli-plugin-apollo": "^0.22.0",
     "watch": "^1.0.2",
     "@akryum/winattr": "^3.0.0"
   },

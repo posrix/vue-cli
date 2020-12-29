@@ -24,9 +24,9 @@
   "dependencies": {
     "@types/node": "^9.3.0",
     "@vue/cli-shared-utils": "^3.0.0-rc.3",
-    "fork-ts-checker-webpack-plugin": "^0.4.1",
+    "fork-ts-checker-webpack-plugin": "^5.0.0",
     "globby": "^8.0.1",
-    "ts-loader": "^4.3.1",
+    "ts-loader": "^6.0.0",
     "tslint": "^5.10.0",
     "typescript": "~2.9.0"
   },

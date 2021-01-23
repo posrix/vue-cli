@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@vue/cli-shared-utils": "^3.0.0-rc.3",
-    "@vue/cli-ui": "^3.0.0-rc.3",
+    "@vue/cli-ui": "^4.5.11",
     "@vue/cli-ui-addon-webpack": "^3.0.0-rc.3",
     "chalk": "^2.3.0",
     "cmd-shim": "^2.0.2",

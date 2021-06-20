@@ -50,7 +50,7 @@
     "lodash.transform": "^4.6.0",
     "mini-css-extract-plugin": "^0.4.0",
     "minimist": "^1.2.0",
-    "optimize-css-assets-webpack-plugin": "^4.0.1",
+    "optimize-css-assets-webpack-plugin": "^5.0.0",
     "ora": "^2.1.0",
     "portfinder": "^1.0.13",
     "postcss-loader": "^2.1.5",

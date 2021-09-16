@@ -32,7 +32,7 @@
     "case-sensitive-paths-webpack-plugin": "^2.1.2",
     "chalk": "^2.4.1",
     "clipboardy": "^1.2.3",
-    "cliui": "^4.1.0",
+    "cliui": "^6.0.0",
     "copy-webpack-plugin": "^4.5.1",
     "css-loader": "^0.28.11",
     "debug": "^3.1.0",
@@ -67,7 +67,7 @@
     "webpack": "^4.8.2",
     "webpack-bundle-analyzer": "^2.13.1",
     "webpack-chain": "^4.8.0",
-    "webpack-dev-server": "^3.1.4",
+    "webpack-dev-server": "^4.0.0",
     "webpack-merge": "^4.1.2",
     "yorkie": "^1.0.3"
   },

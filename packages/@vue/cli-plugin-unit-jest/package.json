@@ -22,7 +22,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@vue/cli-shared-utils": "^3.0.0-rc.3",
+    "@vue/cli-shared-utils": "^5.0.0",
     "babel-jest": "^23.0.1",
     "babel-plugin-transform-es2015-modules-commonjs": "^6.26.2",
     "jest": "^23.1.0",

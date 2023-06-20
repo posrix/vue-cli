@@ -22,7 +22,7 @@
   "homepage": "https://github.com/vuejs/vue-cli/packages/@vue/cli-service#readme",
   "dependencies": {
     "@vue/cli-overlay": "^3.0.0-rc.3",
-    "@vue/cli-shared-utils": "^3.0.0-rc.3",
+    "@vue/cli-shared-utils": "^5.0.0",
     "@vue/preload-webpack-plugin": "^1.0.0",
     "@vue/web-component-wrapper": "^1.2.0",
     "acorn": "^5.5.3",
@@ -54,8 +54,8 @@
     "ora": "^2.1.0",
     "portfinder": "^1.0.13",
     "postcss-loader": "^2.1.5",
-    "read-pkg": "^3.0.0",
-    "semver": "^5.5.0",
+    "read-pkg": "^6.0.0",
+    "semver": "^7.5.2",
     "slash": "^2.0.0",
     "source-map-url": "^0.4.0",
     "string.prototype.padend": "^3.0.0",
@@ -67,7 +67,7 @@
     "webpack": "^4.8.2",
     "webpack-bundle-analyzer": "^2.13.1",
     "webpack-chain": "^4.8.0",
-    "webpack-dev-server": "^3.1.4",
+    "webpack-dev-server": "^4.0.0",
     "webpack-merge": "^4.1.2",
     "yorkie": "^1.0.3"
   },

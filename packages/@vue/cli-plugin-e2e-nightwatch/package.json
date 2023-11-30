@@ -23,10 +23,10 @@
   },
   "dependencies": {
     "@vue/cli-shared-utils": "^3.0.0-rc.3",
-    "chromedriver": "^2.38.3",
+    "chromedriver": "^107.0.2",
     "deepmerge": "^2.1.0",
     "execa": "^0.10.0",
-    "nightwatch": "^0.9.21",
+    "nightwatch": "^1.0.1",
     "selenium-server": "^3.12.0"
   }
 }

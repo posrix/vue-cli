@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@vue/cli-shared-utils": "^3.0.0-rc.3",
-    "@vue/cli-ui": "^3.0.0-rc.3",
+    "@vue/cli-ui": "^5.0.0",
     "@vue/cli-ui-addon-webpack": "^3.0.0-rc.3",
     "chalk": "^2.3.0",
     "cmd-shim": "^2.0.2",
@@ -39,7 +39,7 @@
     "ejs": "^2.5.7",
     "execa": "^0.10.0",
     "fs-extra": "^6.0.0",
-    "globby": "^8.0.1",
+    "globby": "^10.0.0",
     "import-global": "^0.1.0",
     "inquirer": "^6.0.0",
     "isbinaryfile": "^3.0.2",

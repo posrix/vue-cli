@@ -22,7 +22,7 @@
   "homepage": "https://github.com/vuejs/vue-cli/packages/@vue/cli-service#readme",
   "dependencies": {
     "@vue/cli-overlay": "^3.0.0-rc.3",
-    "@vue/cli-shared-utils": "^3.0.0-rc.3",
+    "@vue/cli-shared-utils": "^5.0.0",
     "@vue/preload-webpack-plugin": "^1.0.0",
     "@vue/web-component-wrapper": "^1.2.0",
     "acorn": "^5.5.3",
